@@ -22,6 +22,7 @@
 
 
 ### Create new enviroment
+
 ...<br />
  pip install virtualenv <br />
  python -m venv completeMLRegression <br />
